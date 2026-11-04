@@ -1,0 +1,10 @@
+student_performance_prediction/
+├── app.py
+├── train_model.py
+├── requirements.txt
+├── README.md
+├── PROJECT_REPORT.md
+├── data/
+│   └── student_performance.csv
+└── models/
+    └── (best_model.joblib is generated after training)
